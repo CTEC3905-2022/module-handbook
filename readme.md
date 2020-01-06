@@ -1,12 +1,12 @@
 <center>
-![](http://ecoconsulting.co.uk/images/html-css-js.png)
+![](images/html-css-js.png)
 
 # CTEC3905 MODULE HANDBOOK
 </center>
 
 +++
 
-{{TOC}}
+{:TOC}
 
 +++
 
