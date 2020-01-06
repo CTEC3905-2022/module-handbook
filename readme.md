@@ -4,21 +4,22 @@
 # CTEC3905 MODULE HANDBOOK
 </center>
 
-+++
+---
 
 {:TOC}
 
-+++
+---
 
 ## Module leader
 
-Luke Attwood: lattwood@dmu.ac.uk
+Graeme Stuart: gstuart@dmu.ac.uk
 
 ## Teaching staff contact details
 
-- Dave Everitt: deveritt@dmu.ac.uk
+- Graeme Stuart: gstuart@dmu.ac.uk
 - Fania Raczinski: fania.raczinski@dmu.ac.uk
-- Tarjana Yagnik: tarjana.yagnik@dmu.ac.uk
+- TBC: TBC@dmu.ac.uk
+- Dave Everitt (lectures only): deveritt@dmu.ac.uk
 
 **Please note:** teaching staff contact outside workshop and lecture hours is strictly via email. Please contact Luke Attwood for any admin-based module enquiries.
 
