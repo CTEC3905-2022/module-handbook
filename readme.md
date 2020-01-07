@@ -41,7 +41,7 @@ Labs and lectures end 10 minutes early to allow for class changeover.
 
 For specific class times and locations, check your personal timetable.
 
-| Week | Date (Mon) | Lecture (Thursday before lab)                                 | Lab                                                                           |
+| Week | Date commencing | Lecture                                                 | Lab                                                                           |
 |------|------------|---------------------------------------------------------------|-------------------------------------------------------------------------------|
 | 16   | 13 Jan     | Module introduction, the 3 front-end languages                | (no labs)                                                                     |
 | 17   | 20 Jan     | Arranging page items: CSS positioning, floats, flexbox, grid  | A basic page with all 3 languages, set up GIT and GitHub, project brief       |
