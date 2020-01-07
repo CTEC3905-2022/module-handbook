@@ -1,9 +1,6 @@
 ![module logo](https://github.com/CTEC3905/module-handbook/blob/master/images/html-css-js.png)
 
-<center>
 # CTEC3905 MODULE HANDBOOK
-</center>
-
 
 ## Contents
 - [Staff](#module-leader)
