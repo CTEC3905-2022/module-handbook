@@ -1,4 +1,4 @@
-![module logo](/images/html-css-js.png)
+![module logo](http://ecoconsulting.co.uk/images/html-css-js.png)
 
 # CTEC3905 MODULE HANDBOOK
 
@@ -32,7 +32,7 @@ Dr Graeme Stuart: gstuart@dmu.ac.uk
 
 ## Module calendar
 
-Module lectures (1 hour) run from weeks 16-26. Module labs (2 hours) run from week 17-27 (final workshop in week commencing 30 March). The final project hand-in date is: 4pm Friday 3 April 2020 (week 27) via the link under [Assessment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_460483_1&content_id=_3760194_1&mode=reset).
+Module lectures (1 hour) run from weeks 16-26. Module labs (2 hours) run from week 17-27 (final workshop in week commencing 30 March). The final project hand-in date is: 4pm Friday 3 April 2020 (week 27) via the link under [Assessment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?content_id=_4247904_1&course_id=_551514_1&mode=reset).
 
 Labs and lectures end 10 minutes early to allow for class changeover.
 
@@ -116,7 +116,7 @@ If you need any support or advice on completing this coursework please visit the
 - **Weighting:** 100% of module mark
 - **Deadline:** 16:00 Friday 03 April 2020 (week 27)
 - **Feedback:** by 16:00 Friday 01 May 2020 (week 31)
-- **Submission:** two URLs to the [Assignment submission link on Blackboard](https://vle.dmu.ac.uk/webapps/assignment/uploadAssignment?content_id=_4007081_1&course_id=_469470_1&group_id=&mode=cpview) - GIT repository URL and live pages URL on the module GitHub classroom (URL to follow)
+- **Submission:** two URLs to the [Assignment submission link on Blackboard](https://vle.dmu.ac.uk/webapps/assignment/uploadAssignment?content_id=_4516063_1&course_id=_551514_1&group_id=&mode=cpview) - GIT repository URL and live pages URL on the module GitHub classroom (URL to follow)
 
 You will create a website of no more than 4 separate pages or - if a SPA (Single-Page App) - 4 distinct screen sections on a topic of your choice (e.g. portfolio, business, interests, game reviews…). This can be useful for your future and should demonstrate your knowledge of all three front-end languages.
 
@@ -125,7 +125,7 @@ You will create a website of no more than 4 separate pages or - if a SPA (Single
 1. the project code repository on the module GitHub classroom (URL to follow)
 2. the visible website GitHub page on the module GitHub classroom (URL to follow)
 
-These two URLs can be entered via the [Assignment submission link on Blackboard](https://vle.dmu.ac.uk/webapps/assignment/uploadAssignment?content_id=_4007081_1&course_id=_469470_1&group_id=&mode=cpview)
+These two URLs can be entered via the [Assignment submission link on Blackboard](https://vle.dmu.ac.uk/webapps/assignment/uploadAssignment?content_id=_4516063_1&course_id=_551514_1&group_id=&mode=cpview)
 
 Please make sure you **double-check your code repository and live site URLs before submitting**.
 
@@ -138,7 +138,7 @@ These come under four headings:
 3. Responsiveness, Accessibility and Interaction
 4. GIT Version Control
 
-Please ensure you understand all the requirements under each heading - see the full marking criteria under [Assessment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_469470_1&content_id=_3927920_1&mode=reset).
+Please ensure you understand all the requirements under each heading - see the full marking criteria under [Assessment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_551514_1&content_id=_4247904_1&mode=reset).
 
 ### Anonymous marking
 Because of the practical nature of this module, there will be no anonymous marking as the origin of each students’ work is obvious to the tutors from workshop sessions.
@@ -239,7 +239,7 @@ These include plagiarism, cheating, collusion, copying work and reuse of your ow
 
 Read the DMU library page [“What is plagiarism”](http://www.library.dmu.ac.uk/Support/Justask/index.php?page=175&faqcategory=14#f1). As for copying code, developers often examine source code from other sites and adapt features they like into their own work. However, pre–designed templates of complete designs, copying “build a website” tutorials without significant modification, or taking code wholly or substantially from other sources is not acceptable, as you will learn very little.
 
-Please include specific references in your GitHub reame.md file for any third-party code or online tutorials you have adapted.
+Please include specific references in your GitHub `readme.md` file for any third-party code or online tutorials you have adapted.
 
 However, the practical work submitted for this course **must primarily be your own**, so be aware that tutors will check source code in detail.
 
