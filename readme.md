@@ -1,4 +1,4 @@
-![module logo](https://github.com/CTEC3905/module-handbook/blob/master/images/html-css-js.png)
+![module logo](/images/html-css-js.png)
 
 # CTEC3905 MODULE HANDBOOK
 
