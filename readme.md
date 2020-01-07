@@ -51,7 +51,7 @@ For specific class times and locations, check your personal timetable.
 | 24   | 09 Mar     | CSS animation: transition, transformation, animation          | IA, content planning and preparation                                          |
 | 25   | 16 Mar     | Using developer tools (speed/optimisation), good practice(?)  | final project development                                                     |
 | 26   | 23 Mar     | Progressive web apps, developer tools (speed/optimisation)    | final project development, how to hand in, final look at marking criteria     |
-| 27   | 30 Mar     | (no lectures)                                                 | (no labs) hand-in deadline 4pm Friday 03 April                                      |
+| 27   | 30 Mar     | (no lectures)                                                 | last chance to work on assignment before hand-in deadline 4pm Friday 03 April                                                |
 
 
 ### Labs
