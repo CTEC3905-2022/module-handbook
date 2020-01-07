@@ -6,13 +6,17 @@
 
 
 ## Contents
-- [staff](#module-leader)
-- [calendar](#module-calendar)
-  - [labs](#labs)
-  - [lectures](#lectures)
-- [learning outcomes](#learning-outcomes)
-- [resources](#blackboard-resources)
-  - [assignment](#the-assignment)
+- [Staff](#module-leader)
+- [Calendar](#module-calendar)
+- [Module details](#module-details)
+  - [learning outcomes](#learning-outcomes)
+  - [blackboard resources](#blackboard-resources)
+- [Assignment](#the-assignment)
+- [Recommended resources](#recommended-resources)
+- [Extensions and late submission](#extensions-and-late-submission)
+- [Deferrals, failure and reassessment](#deferrals-failure-and-reassessment)
+- [Academic Offences and Bad Academic Practices](#academic-offences-and-bad-academic-practices)
+- [Further general advice on your project](#further-general-advice-on-your-project)
 
 ---
 
@@ -20,7 +24,7 @@
 
 Dr Graeme Stuart: gstuart@dmu.ac.uk
 
-## Teaching staff contact details
+### Teaching staff contact details
 
 - Dr Graeme Stuart: gstuart@dmu.ac.uk
 - Dr Fania Raczinski: fania.raczinski@dmu.ac.uk
@@ -53,7 +57,7 @@ For specific class times and locations, check your personal timetable.
 | 27   | 30 Mar     | (no lectures)                                                 | (no labs) hand-in deadline 4pm Mon 7 Dec                                      |
 
 
-## Labs
+### Labs
 
 **Location and time:** Gateway House, check personal timetable for room and time
 
@@ -64,7 +68,7 @@ Labs involve guided exercises and hands-on coding, and are a focussed place to w
 
 Work submitted without sufficient knowledge may not meet the required standard and could be rejected, and all code is examined for plagiarism.
 
-## Lectures
+### Lectures
 
 **Location and time:** check personal timetable
 **1 hour** weeks 16-22 and 24-26
