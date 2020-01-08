@@ -25,8 +25,7 @@ Dr Graeme Stuart: gstuart@dmu.ac.uk
 
 - Dr Graeme Stuart: gstuart@dmu.ac.uk
 - Dr Fania Raczinski: fania.raczinski@dmu.ac.uk
-- Mr Dave Everitt: deveritt@dmu.ac.uk
-- TBC: TBC@dmu.ac.uk
+- Mr Dave Everitt (lectures only): deveritt@dmu.ac.uk
 
 **Please note:** teaching staff contact outside workshop and lecture hours is strictly via email. Please contact Graeme Stuart for any admin-based module enquiries.
 
