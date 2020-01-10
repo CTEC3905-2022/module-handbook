@@ -114,7 +114,7 @@ If you need any support or advice on completing this coursework please visit the
 
 - **Weighting:** 100% of module mark
 - **Deadline:** 16:00 Friday 03 April 2020 (week 27)
-- **Feedback:** by 16:00 Friday 01 May 2020 (week 31)
+- **Feedback:** by 16:00 Wednesday 06 May 2020 (week 32)
 - **Submission:** two URLs to the [Assignment submission link on Blackboard](https://vle.dmu.ac.uk/webapps/assignment/uploadAssignment?content_id=_4516063_1&course_id=_551514_1&group_id=&mode=cpview) - GIT repository URL and live pages URL on the module GitHub classroom (URL to follow)
 
 You will create a website of no more than 4 separate pages or - if a SPA (Single-Page App) - 4 distinct screen sections on a topic of your choice (e.g. portfolio, business, interests, game reviews…). This can be useful for your future and should demonstrate your knowledge of all three front-end languages.
