@@ -1,4 +1,3 @@
-![module logo](http://ecoconsulting.co.uk/images/html-css-js.png)
 
 | HTML | CSS | Javascript |
 |:----:|:---:|:----------:|
