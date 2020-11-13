@@ -1,9 +1,8 @@
 ![module logo](http://ecoconsulting.co.uk/images/html-css-js.png)
 
-<img src="images/html5_badge.svg" alt="HTML logo">
-![HTML logo](images/html5_badge.svg =100)
-![CSS logo](images/css3_badge.svg =100)
-![JS logo](images/javascript_badge.svg =100)
+<img src="images/html5_badge.svg" alt="HTML5 logo" width="30%">
+<img src="images/css3_badge.svg" alt="CSS3 logo" width="30%">
+<img src="images/javascript_badge.svg" alt="Javascript logo" width="30%">
 
 # CTEC3905 MODULE HANDBOOK
 
