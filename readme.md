@@ -2,7 +2,7 @@
 
 | HTML | CSS | Javascript |
 |:----:|:---:|:----------:|
-| <img src="images/html5_badge.svg" alt="HTML5 logo" width="30%"> | <img src="images/css3_badge.svg" alt="CSS3 logo" width="30%"> | <img src="images/javascript_badge.svg" alt="Javascript logo" width="30%"> |
+| <img src="images/html5_badge.svg" alt="HTML5 logo" width="100%"> | <img src="images/css3_badge.svg" alt="CSS3 logo" width="100%"> | <img src="images/javascript_badge.svg" alt="Javascript logo" width="100%"> |
 
 # CTEC3905 MODULE HANDBOOK
 
