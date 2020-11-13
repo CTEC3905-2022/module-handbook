@@ -1,12 +1,12 @@
+# CTEC3905 MODULE HANDBOOK
 
 | HTML | CSS | Javascript |
 |:----:|:---:|:----------:|
 | <img src="images/html5_badge.svg" alt="HTML5 logo" width="100%"> | <img src="images/css3_badge.svg" alt="CSS3 logo" width="100%"> | <img src="images/javascript_badge.svg" alt="Javascript logo" width="100%"> |
 
-# CTEC3905 MODULE HANDBOOK
 
 ## Contents
-- [Staff](#module-leader)
+- [Staff](#staff)
 - [Calendar](#module-calendar)
 - [Module details](#module-details)
   - [learning outcomes](#learning-outcomes)
@@ -20,68 +20,69 @@
 
 ---
 
-## Module leader
+## Staff
 
-Dr Graeme Stuart: gstuart@dmu.ac.uk
+- Dr Graeme Stuart (module leader): gstuart@dmu.ac.uk
+-
+-
 
-### Teaching staff contact details
-
-- Dr Graeme Stuart: gstuart@dmu.ac.uk
-- Dr Fania Raczinski: fania.raczinski@dmu.ac.uk
-- Mr Dave Everitt (lectures only): deveritt@dmu.ac.uk
-
-**Please note:** teaching staff contact outside workshop and lecture hours is strictly via email. Please contact Graeme Stuart for any admin-based module enquiries.
+**Please note:** teaching staff contact outside timetabled hours is strictly via email.
+Please contact module leader for module enquiries.
 
 ## Module calendar
-
-Module lectures (1 hour) run from weeks 16-26. Module labs (2 hours) run from week 17-27 (final workshop in week commencing 30 March). The final project hand-in date is: 4pm Friday 3 April 2020 (week 27) via the link under [Assessment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?content_id=_4247904_1&course_id=_551514_1&mode=reset).
-
-Labs and lectures end 10 minutes early to allow for class changeover.
-
+The module runs from week 15 to week 25.
+Each week there will be a 2-hour timetabled lab session held online in blackboard collaborate.
+Each week asynchronous content will be released prior to lab sessions.
+In the first week there is no lab session.
+Four times, in weeks x, x, x and x there will be a face-to-face lab session for one hour.
 For specific class times and locations, check your personal timetable.
 
-| Week | Date commencing | Lecture                                                 | Lab                                                                           |
-|------|------------|---------------------------------------------------------------|-------------------------------------------------------------------------------|
-| 16   | 13 Jan     | Module introduction, the 3 front-end languages                | (no labs)                                                                     |
-| 17   | 20 Jan     | Arranging page items: CSS positioning, floats, flexbox, grid  | A basic page with all 3 languages, set up GIT and GitHub, project brief       |
-| 18   | 27 Jan     | JavaScript data: local storage                                | The box model and positioning                                                 |
-| 19   | 03 Feb     | HTML5 semantic markup and elements, validation, CSS syntax    | simple JavaScript interaction with local storage                              |
-| 20   | 10 Feb     | mobile-first, responsive web design                           | the DOM: parent, child, sibling, validation                                   |
-| 22   | 17 Feb     | JavaScript: JSON data, APIs                                   | Mobile-first responsive wireframe, responsive menus. Finalise project concept |
-| 21   | 24 Feb     | BREAK                                                         | (no labs)                                                                     |
-| 23   | 02 Mar     | Usability: IA, 4 principles of design, accessibility          | pushing remote JSON data from APIs to the DOM                                 |
-| 24   | 09 Mar     | CSS animation: transition, transformation, animation          | IA, content planning and preparation                                          |
-| 25   | 16 Mar     | Using developer tools (speed/optimisation), good practice(?)  | final project development                                                     |
-| 26   | 23 Mar     | Progressive web apps, developer tools (speed/optimisation)    | final project development, how to hand in, final look at marking criteria     |
-| 27   | 30 Mar     | (no lectures)                                                 | last chance to work on assignment before hand-in deadline 4pm Friday 03 April                                                |
+The final project hand-in date is: 4pm Friday 3 April 2021 (week 27) via the link under [Assessment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?content_id=_4247904_1&course_id=_551514_1&mode=reset).
 
 
-### Labs
+| Week | Date | Lecture | Lab |
+| :--: | :-------------: |---------|-----|
+| 15 | 11 Jan | Module introduction, tools and technologies | (no labs) |
+| 16 | 18 Jan | Arranging page items: CSS positioning, floats, flexbox, grid | A basic page with all 3 languages, set up GIT and GitHub, project brief |
+| 17 | 25 Jan | JavaScript data: local storage | The box model and positioning |
+| 18 | 01 Feb | HTML5 semantic markup and elements, validation, CSS syntax | simple JavaScript interaction with local storage |
+| 19 | 08 Feb | mobile-first, responsive web design | the DOM: parent, child, sibling, validation |
+| 20 | 15 Feb | JavaScript: JSON data, APIs | Mobile-first responsive wireframe, responsive menus. Finalise project concept |
+| 21 | 22 Feb | Usability: IA, 4 principles of design, accessibility | pushing remote JSON data from APIs to the DOM |
+| 22 | 01 Mar | BREAK | BREAK |
+| 23 | 08 Mar | CSS animation: transition, transformation, animation | IA, content planning and preparation |
+| 24 | 15 Mar | Using developer tools (speed/optimisation), good practice(?) | final project development |
+| 25 | 22 Mar | Progressive web apps, developer tools (speed/optimisation) | final project development, how to hand in, final look at marking criteria |
+| 26 | 29 Mar | EASTER | EASTER |
+| 27 | 05 Apr | EASTER | EASTER |
+| 28 | 12 Apr | EASTER | EASTER |
+| 29 | 19 Apr | ASSIGNMENT DUE | ASSIGNMENT DUE |
 
-**Location and time:** Gateway House, check personal timetable for room and time
 
-**Ten** labs (see timetable above)
-**2 hours** per week (weeks 17-22 and 24-27).
+### labs
+
+**Face-to-face:** Gateway House, check personal timetable for room and time
+
+**Online**: Ten online labs (see timetable above)
+**2 hours** per week (weeks 15-21 and 23-25).
 
 Labs involve guided exercises and hands-on coding, and are a focussed place to work on your final assignment and develop your skills. This is a very concentrated module, covering the three languages HTML5, CSS3 and JavaScript ES6. Completing all the lab exercises will ensure that your knowledge keeps pace with the module calendar.
 
 Work submitted without sufficient knowledge may not meet the required standard and could be rejected, and all code is examined for plagiarism.
 
-### Lectures
+### Online, asynchronous materials
 
-**Location and time:** check personal timetable
-**1 hour** weeks 16-22 and 24-26
+Each week, online resources and video demonstrations will introduce the learning materials in preparation for a related lab session the following week (see timetable).
 
-**Ten** 1-hour lectures, week before lab (see timetable above).
+These resources provide essential technical information as well as wider perspectives on front-end web technologies.
+They also contain carefully-selected links for further information.
 
-Lectures introduce the learning materials the week before the related lab (see timetable). Lectures provide essential technical information as well as wider perspectives on front-end web technologies. They also contain carefully-selected links for further information.
-
-All lectures are made available online in both HTML and PDF formats, and recorded via Panopto. Each HTML slide has a unique URL which enables lectures to be indexed for easier access to specific content.
+It is essential that the main material is completed before the following lab session.
 
 ## Module details
 
 ### Learning outcomes
-By the end of this module, through lecture attendance and completion of lab exercises, you will be able to:
+By the end of this module, through completion of asynchronous materials and lab exercises, you will be able to:
 
 1.	Use GIT and GitHub for version control and code storage
 2.	Demonstrate critical understanding of Information Architecture, user interface design, usability principles and semantic markup
@@ -96,14 +97,15 @@ Blackboard is a crucial part of this module, these are the main sections:
 
 - **Announcements:** important reminders, possible jobs
 - **Staff Contacts:** module leader and teaching staff
-- **Module Information:** handbook and module calendar
+- **Module handbook:** this document, including module calendar
 - **Labs:** (numbered) exercises and links to code
 - **Lectures:** (numbered) links to slides (HTML, PDF, Panopto)
-- **Assessment:** assignment brief and marking scheme, hand-in link
 - **Learning Materials:** further learning resources, including:
-    - GIT and GitHub guide
-    - recommended books, articles and tutorials
+    - recommended books
+    - articles
+    - tutorials
     - more advanced or detailed resources
+- **Assessment:** assignment brief, marking scheme and submission link
 
 ## The assignment
 
@@ -116,8 +118,8 @@ If you need any support or advice on completing this coursework please visit the
 ### Summary
 
 - **Weighting:** 100% of module mark
-- **Deadline:** 16:00 Friday 03 April 2020 (week 27)
-- **Feedback:** by 16:00 Wednesday 06 May 2020 (week 32)
+- **Deadline:** 12:00 Friday 23rd April 2021 (week 29)
+- **Feedback:** by 12:00 Monday 24th May 2021 (week 34)
 - **Submission:** two URLs to the [Assignment submission link on Blackboard](https://vle.dmu.ac.uk/webapps/assignment/uploadAssignment?content_id=_4516063_1&course_id=_551514_1&group_id=&mode=cpview) - GIT repository URL and live pages URL on the module GitHub classroom (URL to follow)
 
 You will create a website of no more than 4 separate pages or - if a SPA (Single-Page App) - 4 distinct screen sections on a topic of your choice (e.g. portfolio, business, interests, game reviews…). This can be useful for your future and should demonstrate your knowledge of all three front-end languages.
