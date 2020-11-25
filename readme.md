@@ -59,7 +59,7 @@ The final project hand-in date is: 4pm Friday 3 April 2021 (week 27) via the lin
 | 29 | 19 Apr | ASSIGNMENT DUE | ASSIGNMENT DUE |
 
 
-### labs
+### Labs
 
 **Face-to-face:** Gateway House, check personal timetable for room and time
 
