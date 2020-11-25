@@ -193,7 +193,7 @@ There's also a free Udacity course - [Responsive Web Design Basics](https://deve
 
 Two free online JavaScript books are useful references:
 
-- Marijn Haverbeke, [**Eloquent JavaScript**](https://eloquentjavascript.net/00_intro.html)
+- Marijn Haverbeke, [**Eloquent JavaScript**](https://eloquentjavascript.net)
 - Dr. Axel Rauschmayer, [**Exploring ES6**](http://exploringjs.com/es6/index.html)
 
 You won’t need to read these in detail for the module, but if you want to dig deeper into JavaScript, they cover far more than the module learning materials can.
