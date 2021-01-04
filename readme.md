@@ -24,6 +24,7 @@
 - [Deferrals, failure and reassessment](#deferrals-failure-and-reassessment)
 - [Academic Offences and Bad Academic Practices](#academic-offences-and-bad-academic-practices)
 - [Further general advice on your project](#further-general-advice-on-your-project)
+
 ---
 
 ## Staff
