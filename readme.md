@@ -22,19 +22,24 @@
 
 ## Staff
 
-- Dr Graeme Stuart (module leader): gstuart@dmu.ac.uk
--
--
+- **Graeme Stuart** (module leader): gstuart@dmu.ac.uk
+- **Salimah Mohamed**: salimah.mohamed@dmu.ac.uk
+
 
 **Please note:** teaching staff contact outside timetabled hours is strictly via email.
 Please contact module leader for module enquiries.
 
 ## Module calendar
-The module runs from week 15 to week 25.
-Each week there will be a 2-hour timetabled lab session held online in blackboard collaborate.
-Each week asynchronous content will be released prior to lab sessions.
-In the first week there is no lab session.
-Four times, in weeks x, x, x and x there will be a face-to-face lab session for one hour.
+
+The module runs from week 17 (25th January) to week 30 (30th April).
+
+Asynchronous content will be released on the Thursday prior to lab sessions the following week.
+Each week there will be a 2-hour timetabled lab session held online in blackboard collaborate in groups of ~60.
+There will be four one-hour, face-to-face lab sessions in groups of ~11.
+Depending on which group you are in, these will be in weeks 17, 21, 25 and 29 or weeks 18, 21, 24 and 30.
+
+We will also have three online workshops (weeks 18, 21 and 24) with guest lecturer (and CTEC3905 module co-founder) Dave Everitt from the media school.
+
 For specific class times and locations, check your personal timetable.
 
 The final project hand-in date is: 4pm Friday 3 April 2021 (week 27) via the link under [Assessment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?content_id=_4247904_1&course_id=_551514_1&mode=reset).
@@ -57,6 +62,7 @@ The final project hand-in date is: 4pm Friday 3 April 2021 (week 27) via the lin
 | 27 | 05 Apr | EASTER | EASTER |
 | 28 | 12 Apr | EASTER | EASTER |
 | 29 | 19 Apr | ASSIGNMENT DUE | ASSIGNMENT DUE |
+| 30 | 26 Apr | ASSIGNMENT DUE 30th April @ 12:00 | ASSIGNMENT DUE 30th April @ 12:00 |
 
 
 ### Labs
@@ -118,8 +124,8 @@ If you need any support or advice on completing this coursework please visit the
 ### Summary
 
 - **Weighting:** 100% of module mark
-- **Deadline:** 12:00 Friday 23rd April 2021 (week 29)
-- **Feedback:** by 12:00 Monday 24th May 2021 (week 34)
+- **Deadline:** 12:00 Friday 30th April 2021 (week 30)
+- **Feedback:** by 12:00 Wednesday 2nd June 2021 (week 35)
 - **Submission:** two URLs to the [Assignment submission link on Blackboard](https://vle.dmu.ac.uk/webapps/assignment/uploadAssignment?content_id=_4516063_1&course_id=_551514_1&group_id=&mode=cpview) - GIT repository URL and live pages URL on the module GitHub classroom (URL to follow)
 
 You will create a website of no more than 4 separate pages or - if a SPA (Single-Page App) - 4 distinct screen sections on a topic of your choice (e.g. portfolio, business, interests, game reviews…). This can be useful for your future and should demonstrate your knowledge of all three front-end languages.
@@ -167,8 +173,8 @@ The [main default mobile browsers](http://gs.statcounter.com/browser-market-shar
 
 For your own laptop or personal computer, you just need a good programming text editor and GIT. Any of the below are free, and good:
 
+- [Atom](https://atom.io/) (recommended for module learning material)
 - [VSCode](https://code.visualstudio.com/) (this is NOT Visual Studio)
-- [Atom](https://atom.io/)
 - [Brackets](http://brackets.io/)
 
 GIT is installed on lab machines, but you can [download and install GIT for your own equipment here](https://git-scm.com/downloads). All the above editors have integrated GIT management, either natively or via a plugin.
@@ -205,7 +211,7 @@ The module recommends only two online reference sites:
 - Mozilla Developer Network (MDN): [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - W3Schools references: [HTML](https://www.w3schools.com/tags/), [CSS](https://www.w3schools.com/cssref/), [JavaScript](https://www.w3schools.com/jsref/) (do not use "onclick" examples)
 
-MDN is more up-to-date, accurate and technical. W3Schools is good for quick reference although some examples use *inline* JavaScript (e.g. "onclick") - instead, the [JavaScript eventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener) is covered in module learning materials as current best practice.
+MDN is more up-to-date, accurate and technical, though it does still include older syntax (such as use of "var") in some examples. W3Schools is good for quick reference although some examples use *inline* JavaScript (e.g. "onclick") - instead, the [JavaScript eventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener) is covered in module learning materials as current best practice.
 
 You can [validate HTML](https://validator.w3.org/) and [validate CCS](https://jigsaw.w3.org/css-validator/) online, and a good text editor will also highlight syntax errors.
 
