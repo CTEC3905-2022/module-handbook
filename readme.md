@@ -29,61 +29,61 @@
 **Please note:** teaching staff contact outside timetabled hours is strictly via email.
 Please contact module leader for module enquiries.
 
-## Module calendar
+---
 
-The module runs from week 17 (25th January) to week 30 (30th April).
+## Module structure
 
-Asynchronous content will be released on the Thursday prior to lab sessions the following week.
-Each week there will be a 2-hour timetabled lab session held online in blackboard collaborate in groups of ~60.
-There will be four one-hour, face-to-face lab sessions in groups of ~11.
-Depending on which group you are in, these will be in weeks 17, 21, 25 and 29 or weeks 18, 21, 24 and 30.
-
-We will also have three online workshops (weeks 18, 21 and 24) with guest lecturer (and CTEC3905 module co-founder) Dave Everitt from the media school.
-
-For specific class times and locations, check your personal timetable.
-
-The final project hand-in date is: 4pm Friday 3 April 2021 (week 27) via the link under [Assessment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?content_id=_4247904_1&course_id=_551514_1&mode=reset).
-
-
-| Week | Date | Lecture | Lab |
-| :--: | :-------------: |---------|-----|
-| 15 | 11 Jan | Module introduction, tools and technologies | (no labs) |
-| 16 | 18 Jan | Arranging page items: CSS positioning, floats, flexbox, grid | A basic page with all 3 languages, set up GIT and GitHub, project brief |
-| 17 | 25 Jan | JavaScript data: local storage | The box model and positioning |
-| 18 | 01 Feb | HTML5 semantic markup and elements, validation, CSS syntax | simple JavaScript interaction with local storage |
-| 19 | 08 Feb | mobile-first, responsive web design | the DOM: parent, child, sibling, validation |
-| 20 | 15 Feb | JavaScript: JSON data, APIs | Mobile-first responsive wireframe, responsive menus. Finalise project concept |
-| 21 | 22 Feb | Usability: IA, 4 principles of design, accessibility | pushing remote JSON data from APIs to the DOM |
-| 22 | 01 Mar | BREAK | BREAK |
-| 23 | 08 Mar | CSS animation: transition, transformation, animation | IA, content planning and preparation |
-| 24 | 15 Mar | Using developer tools (speed/optimisation), good practice(?) | final project development |
-| 25 | 22 Mar | Progressive web apps, developer tools (speed/optimisation) | final project development, how to hand in, final look at marking criteria |
-| 26 | 29 Mar | EASTER | EASTER |
-| 27 | 05 Apr | EASTER | EASTER |
-| 28 | 12 Apr | EASTER | EASTER |
-| 29 | 19 Apr | ASSIGNMENT DUE | ASSIGNMENT DUE |
-| 30 | 26 Apr | ASSIGNMENT DUE 30th April @ 12:00 | ASSIGNMENT DUE 30th April @ 12:00 |
-
-
-### Labs
-
-**Face-to-face:** Gateway House, check personal timetable for room and time
-
-**Online**: Ten online labs (see timetable above)
-**2 hours** per week (weeks 15-21 and 23-25).
-
-Labs involve guided exercises and hands-on coding, and are a focussed place to work on your final assignment and develop your skills. This is a very concentrated module, covering the three languages HTML5, CSS3 and JavaScript ES6. Completing all the lab exercises will ensure that your knowledge keeps pace with the module calendar.
-
-Work submitted without sufficient knowledge may not meet the required standard and could be rejected, and all code is examined for plagiarism.
+This year, the module runs from week 17 (25th January) to week 30 (30th April). The final project hand-in date is: Midday on Friday 30th April 2021 (week 30) via the link under [Assessment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?content_id=_4247904_1&course_id=_551514_1&mode=reset).
 
 ### Online, asynchronous materials
 
 Each week, online resources and video demonstrations will introduce the learning materials in preparation for a related lab session the following week (see timetable).
+Asynchronous content will be released on the Thursday prior to lab sessions the following week.
 
 These resources provide essential technical information as well as wider perspectives on front-end web technologies.
 They also contain carefully-selected links for further information.
 
 It is essential that the main material is completed before the following lab session.
+You must view/read the provided content **before** your first lab each week.
+
+### Labs
+
+There are a total of ten two-hour online labs and four one-hour face-to-face labs.
+
+Labs involve guided exercises and hands-on coding.
+They are a focussed place to work on your final assignment and develop your skills.
+This is a very concentrated module, covering the three languages HTML5, CSS3 and JavaScript ES6.
+Completing all the lab exercises will ensure that your knowledge keeps pace with the module calendar.
+The last few labs (after Easter in particular) will focus on practical advice and questions supporting your individual assignment work.
+
+Each week there will be a 2-hour timetabled lab session held online in blackboard collaborate in groups of 60.
+Face-to-face lab sessions will be spread over the 10-week period and will be in small groups of 11.
+Depending on which group you are in, these will be in weeks 17, 21, 25 and 29 or weeks 18, 21, 24 and 30.
+For specific class times and locations, check your personal timetable.
+
+### Additional online workshops
+
+This year we will also have three online workshops (weeks 18, 21 and 24) with guest lecturer (and CTEC3905 module co-founder) Dave Everitt from the media school.
+
+### Calendar
+
+| Week | Content available | Indicative content |
+| :--: | :---------------: | ------------------ |
+| 17 | 21 Jan | Module introduction, tools and technologies |
+| 18 | 28 Jan | Arranging page items: CSS positioning, floats, flexbox, grid. A basic page with all 3 languages, set up GIT and GitHub, project brief |
+| 19 | 04 Feb | JavaScript data: local storage. The box model and positioning |
+| 20 | 11 Feb | HTML5 semantic markup and elements, validation, CSS syntax. Simple JavaScript interaction with local storage |
+| 21 | 18 Feb | Mobile-first, responsive web design. The DOM: parent, child, sibling, validation |
+| 22 | BREAK | content for week 23 released in advance |
+| 23 | 25 Feb | JavaScript: JSON data, APIs. Mobile-first responsive wireframe, responsive menus. Finalise project concept |
+| 24 | 11 Mar | Usability: IA, 4 principles of design, accessibility. Pushing remote JSON data from APIs to the DOM |
+| 25 | 18 Mar | CSS animation: transition, transformation, animation. IA, content planning and preparation |
+| 26 | EASTER | content for week 29 released in advance |
+| 27 | EASTER | work on assignment |
+| 28 | EASTER | develop questions for the final few lab sessions |
+| 29 | 25 Mar | Assignment workshops. Final project development, how to hand in, final look at marking criteria (released before Easter) |
+| 30 | 26 Apr | Assignment workshops. ASSIGNMENT DUE 30th April @ 12:00 |
+
 
 ## Module details
 
@@ -96,6 +96,7 @@ By the end of this module, through completion of asynchronous materials and lab 
 4.	Create a fully standards-compliant, responsive and accessible website or web-technology-based application
 
 In addition, best practice in general software development (e.g. regular version control of the final project code, consistent code indentation, consistent file and folder naming, etc.) will be encouraged throughout the module. These will also be part of the marking criteria for the final project.
+
 
 ### Blackboard resources
 
