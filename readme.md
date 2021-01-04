@@ -7,24 +7,29 @@
 
 ## Contents
 - [Staff](#staff)
-- [Calendar](#module-calendar)
+- [Module structure](#module-structure)
+  - [Online materials](#online-materials)
+  - [Labs](#labs)
+  - [Additional online workshops](#additional-online-workshops)
+- [Calendar](#calendar)
 - [Module details](#module-details)
   - [learning outcomes](#learning-outcomes)
   - [blackboard resources](#blackboard-resources)
 - [Assignment](#the-assignment)
+  - [Deliverable](#deliverable)
+  - [Submission](#submission)
+  - [Marking Criteria](#marking-criteria)
 - [Recommended resources](#recommended-resources)
 - [Extensions and late submission](#extensions-and-late-submission)
 - [Deferrals, failure and reassessment](#deferrals-failure-and-reassessment)
 - [Academic Offences and Bad Academic Practices](#academic-offences-and-bad-academic-practices)
 - [Further general advice on your project](#further-general-advice-on-your-project)
-
 ---
 
 ## Staff
 
 - **Graeme Stuart** (module leader): gstuart@dmu.ac.uk
 - **Salimah Mohamed**: salimah.mohamed@dmu.ac.uk
-
 
 **Please note:** teaching staff contact outside timetabled hours is strictly via email.
 Please contact module leader for module enquiries.
@@ -35,7 +40,7 @@ Please contact module leader for module enquiries.
 
 This year, the module runs from week 17 (25th January) to week 30 (30th April). The final project hand-in date is: Midday on Friday 30th April 2021 (week 30) via the link under [Assessment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?content_id=_4247904_1&course_id=_551514_1&mode=reset).
 
-### Online, asynchronous materials
+### Online materials
 
 Each week, online resources and video demonstrations will introduce the learning materials in preparation for a related lab session the following week (see timetable).
 Asynchronous content will be released on the Thursday prior to lab sessions the following week.
@@ -65,7 +70,7 @@ For specific class times and locations, check your personal timetable.
 
 This year we will also have three online workshops (weeks 18, 21 and 24) with guest lecturer (and CTEC3905 module co-founder) Dave Everitt from the media school.
 
-### Calendar
+## Calendar
 
 | Week | Content available | Indicative content |
 | :--: | :---------------: | ------------------ |
@@ -88,6 +93,7 @@ This year we will also have three online workshops (weeks 18, 21 and 24) with gu
 ## Module details
 
 ### Learning outcomes
+
 By the end of this module, through completion of asynchronous materials and lab exercises, you will be able to:
 
 1.	Use GIT and GitHub for version control and code storage
@@ -96,7 +102,6 @@ By the end of this module, through completion of asynchronous materials and lab 
 4.	Create a fully standards-compliant, responsive and accessible website or web-technology-based application
 
 In addition, best practice in general software development (e.g. regular version control of the final project code, consistent code indentation, consistent file and folder naming, etc.) will be encouraged throughout the module. These will also be part of the marking criteria for the final project.
-
 
 ### Blackboard resources
 
@@ -116,29 +121,41 @@ Blackboard is a crucial part of this module, these are the main sections:
 
 ## The assignment
 
+You will create a website of no more than 4 separate pages (4 distinct screen sections for Single-Page Apps) on a topic of your choice (e.g. portfolio, business, interests, game reviews…). This can be useful for your future and should demonstrate your knowledge of all three front-end languages.
+
+- **Weighting:** 100% of module mark
+- **Deadline:** midday Friday 30th April 2021 (week 30)
+- **Feedback:** by midday Wednesday 2nd June 2021 (week 35)
+- **Submission:** URL for your GitHub classroom repository to the [Assignment submission link on Blackboard](https://vle.dmu.ac.uk/webapps/assignment/uploadAssignment?content_id=_4516063_1&course_id=_551514_1&group_id=&mode=cpview)
+
+
+### Deliverable
+
+A private github classroom repository will be created for you.
+This repository is the only way we can see your code and will ultimately be used for the submission so take good care of it.
+Instructions for cloning the repository will be provided, this will give you a basic template for your assignment.
+
+Over the course of the module, you are encouraged to gradually replace the template with your own evolving code.
+You will be expected to update your code regularly and also to keep the submission repository up-to-date with regular pushes.
+A good guide would be to make a minimum of two or three commits per week, starting as early as possible and running through to the submission date.
+This allows the project team to inspect your code and offer advice but also ensures you generate a commit history commensurate with the marking criteria.
+
+Note that the deliverable is not simply your final code but the entire history of your development process captured in the git repository.
+It is important that we see your code evolve from a basic first draft through to the final submission.
+Redesigning and refactoring is part of the process, we expect to see changes in markup and redesigns of styles as we introduce new concepts.
+So don't be afraid to commit early and commit often.
+
+### Submission
+
+The submission repository URL should be entered via the [Assignment submission link on Blackboard](https://vle.dmu.ac.uk/webapps/assignment/uploadAssignment?content_id=_4516063_1&course_id=_551514_1&group_id=&mode=cpview) before the assignment deadline (30th April, midday).
+
+Please make sure you **double-check your code repository URL before submitting**.
+
 **Feedback:** will be given on work in progress during workshop sessions and in written form via the marking rubric for the final assignment, within 20 working days of the deadline.
 
 **Reminder**: all marks are provisional, subject to moderation, and will be ratified by the June Progress and Awards Board.
 
 If you need any support or advice on completing this coursework please visit the Student Matters tab on the Faculty of Technology Blackboard page.
-
-### Summary
-
-- **Weighting:** 100% of module mark
-- **Deadline:** 12:00 Friday 30th April 2021 (week 30)
-- **Feedback:** by 12:00 Wednesday 2nd June 2021 (week 35)
-- **Submission:** two URLs to the [Assignment submission link on Blackboard](https://vle.dmu.ac.uk/webapps/assignment/uploadAssignment?content_id=_4516063_1&course_id=_551514_1&group_id=&mode=cpview) - GIT repository URL and live pages URL on the module GitHub classroom (URL to follow)
-
-You will create a website of no more than 4 separate pages or - if a SPA (Single-Page App) - 4 distinct screen sections on a topic of your choice (e.g. portfolio, business, interests, game reviews…). This can be useful for your future and should demonstrate your knowledge of all three front-end languages.
-
-### Deliverable
-
-1. the project code repository on the module GitHub classroom (URL to follow)
-2. the visible website GitHub page on the module GitHub classroom (URL to follow)
-
-These two URLs can be entered via the [Assignment submission link on Blackboard](https://vle.dmu.ac.uk/webapps/assignment/uploadAssignment?content_id=_4516063_1&course_id=_551514_1&group_id=&mode=cpview)
-
-Please make sure you **double-check your code repository and live site URLs before submitting**.
 
 ### Marking criteria
 
@@ -152,6 +169,7 @@ These come under four headings:
 Please ensure you understand all the requirements under each heading - see the full marking criteria under [Assessment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_551514_1&content_id=_4247904_1&mode=reset).
 
 ### Anonymous marking
+
 Because of the practical nature of this module, there will be no anonymous marking as the origin of each students’ work is obvious to the tutors from workshop sessions.
 
 ## Recommended resources
@@ -170,17 +188,20 @@ The following are also usable, but not advised for the module:
 
 The [main default mobile browsers](http://gs.statcounter.com/browser-market-share/mobile/worldwide) are fine for previewing work, too.
 
-### Software
+### Other software
 
 For your own laptop or personal computer, you just need a good programming text editor and GIT. Any of the below are free, and good:
 
 - [Atom](https://atom.io/) (recommended for module learning material)
-- [VSCode](https://code.visualstudio.com/) (this is NOT Visual Studio)
+- [VSCode](https://code.visualstudio.com/)
 - [Brackets](http://brackets.io/)
 
-GIT is installed on lab machines, but you can [download and install GIT for your own equipment here](https://git-scm.com/downloads). All the above editors have integrated GIT management, either natively or via a plugin.
+GIT can be used via a command line and/or via text editor integration.
+All the above editors have integrated GIT management, either natively or via a plugin.
+You will need to [download GIT](https://git-scm.com/downloads) and install it in either case.
 
-We will be using no more than a handful of GIT commands **from the command-line** (but *not* one of the desktop GUI interfaces) throughout the module.
+We will be using no more than a handful of GIT commands **from the command-line** throughout the module.
+It is also possible to use GIT via one of the desktop GUI interfaces but we will **not** be covering that in this module.
 
 ### Books and websites
 
@@ -189,7 +210,7 @@ These two books have been core texts for web developers:
 - Ethan Marcotte, [**Responsive Web Design**](https://abookapart.com/products/responsive-web-design) (2014)
 - Luke Wroblewski, [**Mobile First**](https://abookapart.com/products/mobile-first) (2011)
 
-Although they were published a few years ago, they are regarded as game-changers and are still relevant in 2019.
+Although they were published a few years ago, they are regarded as game-changers and are still relevant in 2021.
 
 Two further HTML5 and CSS3 books are also useful:
 
@@ -210,13 +231,18 @@ You won’t need to read these in detail for the module, but if you want to dig 
 The module recommends only two online reference sites:
 
 - Mozilla Developer Network (MDN): [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- W3Schools references: [HTML](https://www.w3schools.com/tags/), [CSS](https://www.w3schools.com/cssref/), [JavaScript](https://www.w3schools.com/jsref/) (do not use "onclick" examples)
+- W3Schools references: [HTML](https://www.w3schools.com/tags/), [CSS](https://www.w3schools.com/cssref/), [JavaScript](https://www.w3schools.com/jsref/)
 
-MDN is more up-to-date, accurate and technical, though it does still include older syntax (such as use of "var") in some examples. W3Schools is good for quick reference although some examples use *inline* JavaScript (e.g. "onclick") - instead, the [JavaScript eventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener) is covered in module learning materials as current best practice.
+MDN is more up-to-date, accurate and technical, though it does still include older syntax (such as use of `var`) in some examples.
+Curent best practice (as covered in the learning materials and reflected in the marking criteria) is to replace all uses of `var` with `let` or `const`.
+
+W3Schools is good for quick reference although some examples use *inline* JavaScript (e.g. `onclick`).
+Current best practice (as covered in the learning materials and reflected in the marking criteria) is to use the [JavaScript eventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener).
 
 You can [validate HTML](https://validator.w3.org/) and [validate CCS](https://jigsaw.w3.org/css-validator/) online, and a good text editor will also highlight syntax errors.
 
-Finally, [Can I Use](https://caniuse.com/) is indispensable for checking browser support for newer and emerging code features. However, almost all code taught on the module is supported by modern browsers.
+Finally, [Can I Use](https://caniuse.com/) is indispensable for checking browser support for newer and emerging code features.
+However, almost all code taught on the module is supported by modern browsers.
 
 ## Extensions and late submission
 
