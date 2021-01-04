@@ -25,8 +25,6 @@
 - [Academic Offences and Bad Academic Practices](#academic-offences-and-bad-academic-practices)
 - [Further general advice on your project](#further-general-advice-on-your-project)
 
----
-
 ## Staff
 
 - **Graeme Stuart** (module leader): gstuart@dmu.ac.uk
@@ -34,8 +32,6 @@
 
 **Please note:** teaching staff contact outside timetabled hours is strictly via email.
 Please contact module leader for module enquiries.
-
----
 
 ## Module structure
 
