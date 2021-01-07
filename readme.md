@@ -71,20 +71,23 @@ This year we will also have three online workshops (weeks 18, 21 and 24) with gu
 
 | Week | Content available | Indicative content |
 | :--: | :---------------: | ------------------ |
-| 17 | 21 Jan | Module introduction, tools and technologies |
-| 18 | 28 Jan | Arranging page items: CSS positioning, floats, flexbox, grid. A basic page with all 3 languages, set up GIT and GitHub, project brief |
-| 19 | 04 Feb | JavaScript data: local storage. The box model and positioning |
-| 20 | 11 Feb | HTML5 semantic markup and elements, validation, CSS syntax. Simple JavaScript interaction with local storage |
-| 21 | 18 Feb | Mobile-first, responsive web design. The DOM: parent, child, sibling, validation |
+| 17 | 21 Jan | Module introduction. Introduction to HTML. Getting set up. |
+| 18 | 28 Jan | Workflow. Introduction to CSS. Styling a page. |
+| 19 | 04 Feb | Introduction to JavaScript. Using GIT and github. |
+| 20 | 11 Feb | Mobile-first, responsive web design. The DOM: reading, writing, creating and deleting nodes. |
+| 21 | 18 Feb | Forms and user input. Usability: IA, 4 principles of design, accessibility. |
 | 22 | BREAK | content for week 23 released in advance |
-| 23 | 25 Feb | JavaScript: JSON data, APIs. Mobile-first responsive wireframe, responsive menus. Finalise project concept |
-| 24 | 11 Mar | Usability: IA, 4 principles of design, accessibility. Pushing remote JSON data from APIs to the DOM |
+| 23 | 25 Feb | JSON data and storage APIs. |
+| 24 | 11 Mar | Getting remote JSON data from APIs. |
 | 25 | 18 Mar | CSS animation: transition, transformation, animation. IA, content planning and preparation |
 | 26 | EASTER | content for week 29 released in advance |
 | 27 | EASTER | work on assignment |
 | 28 | EASTER | develop questions for the final few lab sessions |
 | 29 | 25 Mar | Assignment workshops. Final project development, how to hand in, final look at marking criteria (released before Easter) |
 | 30 | 26 Apr | Assignment workshops. ASSIGNMENT DUE 30th April @ 12:00 |
+
+
+
 
 
 ## Module details
