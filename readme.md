@@ -7,14 +7,14 @@
 
 ## Contents
 - [Staff](#staff)
+- [Learning outcomes](#learning-outcomes)
+- [Blackboard resources](#blackboard-resources)
+- [github](#github)
 - [Module structure](#module-structure)
   - [Online materials](#online-materials)
   - [Labs](#labs)
   - [Additional online workshops](#additional-online-workshops)
 - [Calendar](#calendar)
-- [Module details](#module-details)
-  - [learning outcomes](#learning-outcomes)
-  - [blackboard resources](#blackboard-resources)
 - [Assignment](#the-assignment)
   - [Deliverable](#deliverable)
   - [Submission](#submission)
@@ -32,6 +32,38 @@
 
 **Please note:** teaching staff contact outside timetabled hours is strictly via email.
 Please contact module leader for module enquiries.
+
+## Learning outcomes
+
+By the end of this module, through completion of asynchronous materials and lab exercises, you will be able to:
+
+1.	Use GIT and GitHub for version control and code storage
+2.	Demonstrate critical understanding of Information Architecture, user interface design, usability principles and semantic markup
+3.	Demonstrate detailed understanding of all three current front-end web technologies, their use and context
+4.	Create a fully standards-compliant, responsive and accessible website or web-technology-based application
+
+In addition, best practice in general software development (e.g. regular version control of the final project code, consistent code indentation, consistent file and folder naming, etc.) will be encouraged throughout the module. These will also be part of the marking criteria for the final project.
+
+## Blackboard resources
+
+Blackboard is a crucial part of this module, these are the main sections:
+
+- **Announcements:** Weekly communication and important additional reminders
+- **Staff contacts:** module leader and teaching staff
+- **Module handbook:** this document, including module calendar
+- **Resource list:** the official resource list for the module
+- **Software:** links to download and install Atom, Google Chrome and Git
+- **Learning materials:** primary learning resources, including:
+  - Pre-recorded videos released each week
+  - links to slides
+  - recommended books, articles and tutorials
+- **Online lab material:** Lab exercises released each week, in advance
+- **Online classroom**: links for attending online sessions
+- **Assignment:** assignment brief, marking scheme and submission link
+
+## Github
+
+We have created a [CTEC3905 github organisation](https://github.com/ctec3905-2020-21) for the code examples and slides. Please become familiar with this as it is also used for assignment submission (see below).
 
 ## Module structure
 
@@ -60,6 +92,7 @@ The last few labs (after Easter in particular) will focus on practical advice an
 
 Each week there will be a 2-hour timetabled lab session held online in blackboard collaborate in groups of 60.
 Face-to-face lab sessions will be spread over the 10-week period and will be in small groups of 11.
+If necessary, face-to-face labs will be moved online.
 Depending on which group you are in, these will be in weeks 17, 21, 25 and 29 or weeks 18, 21, 24 and 30.
 For specific class times and locations, check your personal timetable.
 
@@ -85,35 +118,6 @@ This year we will also have three online workshops (weeks 18, 21 and 24) with gu
 | 28 | EASTER | develop your questions for the final few lab sessions |
 | 29 | 25 Mar | Assignment workshops. Final project development, how to hand in, final look at marking criteria (released before Easter) |
 | 30 | 26 Apr | Assignment workshops. ASSIGNMENT DUE 30th April @ 12:00 |
-
-## Module details
-
-### Learning outcomes
-
-By the end of this module, through completion of asynchronous materials and lab exercises, you will be able to:
-
-1.	Use GIT and GitHub for version control and code storage
-2.	Demonstrate critical understanding of Information Architecture, user interface design, usability principles and semantic markup
-3.	Demonstrate detailed understanding of all three current front-end web technologies, their use and context
-4.	Create a fully standards-compliant, responsive and accessible website or web-technology-based application
-
-In addition, best practice in general software development (e.g. regular version control of the final project code, consistent code indentation, consistent file and folder naming, etc.) will be encouraged throughout the module. These will also be part of the marking criteria for the final project.
-
-### Blackboard resources
-
-Blackboard is a crucial part of this module, these are the main sections:
-
-- **Announcements:** important reminders, possible jobs
-- **Staff Contacts:** module leader and teaching staff
-- **Module handbook:** this document, including module calendar
-- **Labs:** (numbered) exercises and links to code
-- **Lectures:** (numbered) links to slides (HTML, PDF, Panopto)
-- **Learning Materials:** further learning resources, including:
-    - recommended books
-    - articles
-    - tutorials
-    - more advanced or detailed resources
-- **Assessment:** assignment brief, marking scheme and submission link
 
 ## The assignment
 
