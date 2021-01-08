@@ -6,32 +6,30 @@
 
 
 ## Contents
-- [Staff](#staff)
 - [Learning outcomes](#learning-outcomes)
-- [Blackboard resources](#blackboard-resources)
-- [github](#github)
+- [Staff](#staff)
 - [Module structure](#module-structure)
   - [Online materials](#online-materials)
   - [Labs](#labs)
   - [Additional online workshops](#additional-online-workshops)
-- [Calendar](#calendar)
+  - [Calendar](#calendar)
 - [Assignment](#the-assignment)
   - [Deliverable](#deliverable)
   - [Submission](#submission)
   - [Marking Criteria](#marking-criteria)
-- [Recommended resources](#recommended-resources)
+  - [Further general advice on your project](#further-general-advice-on-your-project)
+- [Key resources](#key-resources)
+  - [Blackboard](#blackboard)
+  - [Github](#github)
+  - [Software](#software)
+   - [Desktop web browsers](#desktop-web-browsers)
+   - [Programmers text editor](#programmers-text-editor)
+   - [Version control](#version-control)
+ - [Books and websites](#books-and-websites)
+ - [Online resources and tutorials](#online-resources-and-tutorials)
 - [Extensions and late submission](#extensions-and-late-submission)
 - [Deferrals, failure and reassessment](#deferrals-failure-and-reassessment)
 - [Academic Offences and Bad Academic Practices](#academic-offences-and-bad-academic-practices)
-- [Further general advice on your project](#further-general-advice-on-your-project)
-
-## Staff
-
-- **Graeme Stuart** (module leader): gstuart@dmu.ac.uk
-- **Salimah Mohamed**: salimah.mohamed@dmu.ac.uk
-
-**Please note:** teaching staff contact outside timetabled hours is strictly via email.
-Please contact module leader for module enquiries.
 
 ## Learning outcomes
 
@@ -44,26 +42,14 @@ By the end of this module, through completion of asynchronous materials and lab 
 
 In addition, best practice in general software development (e.g. regular version control of the final project code, consistent code indentation, consistent file and folder naming, etc.) will be encouraged throughout the module. These will also be part of the marking criteria for the final project.
 
-## Blackboard resources
+## Staff
 
-Blackboard is a crucial part of this module, these are the main sections:
+- **Graeme Stuart** (module leader): gstuart@dmu.ac.uk
+- **Salimah Mohamed**: salimah.mohamed@dmu.ac.uk
+- **Dave Everitt**: guest lecturer
 
-- **Announcements:** Weekly communication and important additional reminders
-- **Staff contacts:** module leader and teaching staff
-- **Module handbook:** this document, including module calendar
-- **Resource list:** the official resource list for the module
-- **Software:** links to download and install Atom, Google Chrome and Git
-- **Learning materials:** primary learning resources, including:
-  - Pre-recorded videos released each week
-  - links to slides
-  - recommended books, articles and tutorials
-- **Online lab material:** Lab exercises released each week, in advance
-- **Online classroom**: links for attending online sessions
-- **Assignment:** assignment brief, marking scheme and submission link
-
-## Github
-
-We have created a [CTEC3905 github organisation](https://github.com/ctec3905-2020-21) for the code examples and slides. Please become familiar with this as it is also used for assignment submission (see below).
+**Please note:** teaching staff contact outside timetabled hours is strictly via email.
+Please contact module leader for module enquiries.
 
 ## Module structure
 
@@ -100,15 +86,15 @@ For specific class times and locations, check your personal timetable.
 
 This year we will also have three online workshops (weeks 18, 21 and 24) with guest lecturer (and CTEC3905 module co-founder) Dave Everitt from the media school.
 
-## Calendar
+### Calendar
 
 | Week | Content available | Indicative content |
 | :--: | :---------------: | ------------------ |
 | 17 | 21 Jan | Module introduction. Introduction to HTML. Getting set up. |
-| 18 | 28 Jan | Workflow. Introduction to CSS. Styling a page. |
+| 18 | 28 Jan | Workflow. Introduction to CSS. Creating and styling a page. |
 | 19 | 04 Feb | Introduction to JavaScript. Using GIT and github. |
 | 20 | 11 Feb | Mobile-first, responsive web design. Manipulating the DOM. |
-| 21 | 18 Feb | Forms and user input. Usability: IA, 4 principles of design, accessibility. |
+| 21 | 18 Feb | Getting user input. Usability: IA, 4 principles of design, accessibility. |
 | 22 | BREAK | content for week 23 released in advance |
 | 23 | 25 Feb | JSON data and storage APIs. |
 | 24 | 11 Mar | Getting remote JSON data from APIs. Future trends. |
@@ -131,8 +117,9 @@ You will create a website of no more than 4 separate pages (4 distinct screen se
 
 ### Deliverable
 
-A private github classroom repository will be created for you.
-This repository is the only way we can see your code and will ultimately be used for the submission so take good care of it.
+A private github classroom repository will be created for you within the [CTEC3905 github organisation](https://github.com/ctec3905-2020-21).
+This repository will be visible to you and the module tutors.
+It is the only way we can see your code and will ultimately be used for the submission so take good care of it.
 Instructions for cloning the repository will be provided, this will give you a basic template for your assignment.
 
 Over the course of the module, you are encouraged to gradually replace the template with your own evolving code.
@@ -172,9 +159,45 @@ Please ensure you understand all the requirements under each heading - see the f
 
 Because of the practical nature of this module, there will be no anonymous marking as the origin of each students’ work is obvious to the tutors from workshop sessions.
 
-## Recommended resources
+### Further general advice on your project
 
-### Desktop web browsers
+- is all code indented consistently?
+- is all HTML and CSS code validated?
+- is there a good page structure with HTML5 semantic tags?
+- is the navigation effective or is some content hard to find?
+- is the site fully responsive at all sizes?
+- is all JavaScript (.js) and CSS (.css) in separate files?
+- are all file names lower-case?
+- are images in a separate folder?
+- are there any Javascript errors in the console?
+
+## Key resources
+
+### Blackboard
+
+**Blackboard** is the central point of reference for this module, these are the main sections:
+
+- **Announcements:** Weekly communication and important additional reminders
+- **Staff contacts:** module leader and teaching staff
+- **Module handbook:** this document, including module calendar
+- **Resource list:** the official resource list for the module
+- **Software:** links to download and install Atom, Google Chrome and Git
+- **Learning materials:** primary learning resources, including:
+  - Pre-recorded videos released each week
+  - links to slides
+  - recommended books, articles and tutorials
+- **Online lab material:** Lab exercises released each week, in advance
+- **Online classroom**: links for attending online sessions
+- **Assignment:** assignment brief, marking scheme and submission link
+
+### Github
+
+We have created a [CTEC3905 github organisation](https://github.com/ctec3905-2020-21) for the code examples and slides. Please become familiar with this as it is also used for assignment submission (see below).
+
+
+### Software
+
+#### Desktop web browsers
 
 - [Chrome](https://www.google.com/chrome/) (recommended for module learning material)
 - [Firefox](https://www.mozilla.org/en-US/firefox/)
@@ -188,14 +211,18 @@ The following are also usable, but not advised for the module:
 
 The [main default mobile browsers](http://gs.statcounter.com/browser-market-share/mobile/worldwide) are fine for previewing work, too.
 
-### Other software
+#### Programmers text editor
 
-For your own laptop or personal computer, you just need a good programming text editor and GIT. Any of the below are free, and good:
+For your own laptop or personal computer, you will need a good programming text editor.
+These are free, and good:
 
 - [Atom](https://atom.io/) (recommended for module learning material)
 - [VSCode](https://code.visualstudio.com/)
 - [Brackets](http://brackets.io/)
 
+#### Version control
+
+We will use GIT for version control and code sharing.
 GIT can be used via a command line and/or via text editor integration.
 All the above editors have integrated GIT management, either natively or via a plugin.
 You will need to [download GIT](https://git-scm.com/downloads) and install it in either case.
@@ -281,16 +308,3 @@ Please include specific references in your GitHub `readme.md` file for any third
 However, the practical work submitted for this course **must primarily be your own**, so be aware that tutors will check source code in detail.
 
 **For further information**, please refer to the [student regulations on the DMU website](http://www.dmu.ac.uk/dmu-students/the-student-gateway/academic-support-office/student-regulations.aspx).
-
-
-## Further general advice on your project
-
-- is all HTML and CSS code validated?
-- are there any Javascript errors in the console?
-- is the site fully responsive at all sizes?
-- is the navigation effective or is some content hard to find?
-- is there a good page structure with HTML5 semantic tags?
-- is all code indented consistently?
-- is all JavaScript (.js) and CSS (.css) in separate files?
-- are images in a separate folder?
-- are all file names lower-case?
