@@ -90,14 +90,14 @@ This year we will also have three online workshops (weeks 18, 21 and 24) with gu
 
 | Week | Content available | Indicative content |
 | :--: | :---------------: | ------------------ |
-| 17 | 21 Jan | Module introduction. Introduction to HTML. Getting set up. |
-| 18 | 28 Jan | Workflow. Introduction to CSS. Creating and styling a page. |
+| 17 | 21 Jan | Module introduction. Introduction to HTML. Workflow. |
+| 18 | 28 Jan | Introduction to CSS. Creating and styling a page. Web design and Usability. |
 | 19 | 04 Feb | Introduction to JavaScript. Using GIT and github. |
-| 20 | 11 Feb | Mobile-first, responsive web design. Manipulating the DOM. |
-| 21 | 18 Feb | Getting user input. Usability: IA, 4 principles of design, accessibility. |
+| 20 | 11 Feb | Mobile-first, responsive web design. |
+| 21 | 18 Feb | Getting user input. Planning for real users. |
 | 22 | BREAK | content for week 23 released in advance |
-| 23 | 25 Feb | JSON data and storage APIs. |
-| 24 | 11 Mar | Getting remote JSON data from APIs. Future trends. |
+| 23 | 25 Feb | Manipulating the DOM. JSON data and storage APIs. |
+| 24 | 11 Mar | Getting remote JSON data from APIs. The web's roots and future. |
 | 25 | 18 Mar | CSS animation and transition. |
 | 26 | EASTER | content for week 29 released in advance |
 | 27 | EASTER | work on assignment |
