@@ -53,7 +53,8 @@ Please contact module leader for module enquiries.
 
 ## Module structure
 
-This year, the module runs from week 17 (25th January) to week 30 (30th April). The final project hand-in date is: Midday on Friday 30th April 2021 (week 30) via the link under [Assessment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?content_id=_4247904_1&course_id=_551514_1&mode=reset).
+This year, the module runs from week 17 (25th January) to week 30 (30th April). The final project hand-in date is: Midday on Friday 30th April 2021 (week 30) via the link under [Assignment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_557840_1&content_id=_4941849_1&mode=reset).
+
 
 ### Online materials
 
@@ -91,7 +92,7 @@ This year we will also have three online workshops (weeks 18, 21 and 24) with gu
 | Week | Content available | Indicative content |
 | :--: | :---------------: | ------------------ |
 | 17 | 21 Jan | Module introduction. Introduction to HTML. Workflow. |
-| 18 | 28 Jan | Introduction to CSS. Creating and styling a page. Web design and Usability. |
+| 18 | 28 Jan | Introduction to CSS. Creating and styling a page. Web design and usability. |
 | 19 | 04 Feb | Introduction to JavaScript. Using GIT and github. |
 | 20 | 11 Feb | Mobile-first, responsive web design. |
 | 21 | 18 Feb | Getting user input. Planning for real users. |
@@ -103,7 +104,7 @@ This year we will also have three online workshops (weeks 18, 21 and 24) with gu
 | 27 | EASTER | work on assignment |
 | 28 | EASTER | develop your questions for the final few lab sessions |
 | 29 | 25 Mar | Assignment workshops. Final project development, how to hand in, final look at marking criteria (released before Easter) |
-| 30 | 26 Apr | Assignment workshops. ASSIGNMENT DUE 30th April @ 12:00 |
+| 30 | 22 Apr | Assignment workshops. ASSIGNMENT DUE 30th April @ 12:00 |
 
 ## The assignment
 
@@ -112,8 +113,7 @@ You will create a website of no more than 4 separate pages (4 distinct screen se
 - **Weighting:** 100% of module mark
 - **Deadline:** midday Friday 30th April 2021 (week 30)
 - **Feedback:** by midday Wednesday 2nd June 2021 (week 35)
-- **Submission:** URL for your GitHub classroom repository to the [Assignment submission link on Blackboard](https://vle.dmu.ac.uk/webapps/assignment/uploadAssignment?content_id=_4516063_1&course_id=_551514_1&group_id=&mode=cpview)
-
+- **Submission:** URL for your GitHub classroom repository to the *Assignment submission link* on Blackboard
 
 ### Deliverable
 
@@ -134,7 +134,7 @@ So don't be afraid to commit early and commit often.
 
 ### Submission
 
-The submission repository URL should be entered via the [Assignment submission link on Blackboard](https://vle.dmu.ac.uk/webapps/assignment/uploadAssignment?content_id=_4516063_1&course_id=_551514_1&group_id=&mode=cpview) before the assignment deadline (30th April, midday).
+The submission repository URL should be entered via the *Assignment submission link* on Blackboard before the assignment deadline (30th April, midday).
 
 Please make sure you **double-check your code repository URL before submitting**.
 
@@ -153,7 +153,7 @@ These come under four headings:
 3. Responsiveness, Accessibility and Interaction
 4. GIT Version Control
 
-Please ensure you understand all the requirements under each heading - see the full marking criteria under [Assessment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_551514_1&content_id=_4247904_1&mode=reset).
+Please ensure you understand all the requirements under each heading - see the full marking criteria under [Assignment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_557840_1&content_id=_4941849_1&mode=reset).
 
 ### Anonymous marking
 
@@ -192,8 +192,8 @@ Because of the practical nature of this module, there will be no anonymous marki
 
 ### Github
 
-We have created a [CTEC3905 github organisation](https://github.com/ctec3905-2020-21) for the code examples and slides. Please become familiar with this as it is also used for assignment submission (see below).
-
+We have created a [CTEC3905 github organisation](https://github.com/ctec3905-2020-21) for the code examples and slides.
+Please become familiar with this as it is also used for assignment submission (see below).
 
 ### Software
 
