@@ -45,96 +45,94 @@ In addition, best practice in general software development (e.g. regular version
 ## Staff
 
 - **Graeme Stuart** (module leader): gstuart@dmu.ac.uk
-- **Salimah Mohamed**: salimah.mohamed@dmu.ac.uk
-- **Dave Everitt**: guest lecturer
+- **Martin Stacey**: mstacey@dmu.ac.uk
 
 **Please note:** teaching staff contact outside timetabled hours is strictly via email.
 Please contact module leader for module enquiries.
 
 ## Module structure
 
-This year, the module runs from week 17 (25th January) to week 30 (30th April). The final project hand-in date is: Midday on Friday 30th April 2021 (week 30) via the link under [Assignment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_557840_1&content_id=_4941849_1&mode=reset).
+This year, the module runs from week 16 (19th January) to week 26 (1st April). The final project hand-in date is: Midday on Friday 8th April 2021 (week 27, just before Easter).
 
+| Week | Date | Indicative content                                      |
+| :--: | :----: | :------------------                                   |
+| 16   | 17 Jan | Module introduction. Introduction to HTML. Workflow.  |
+| 17   | 24 Jan | Introduction to CSS. Creating and styling a page.     |
+| 18   | 31 Jan | Introduction to JavaScript. Using GIT and github.     |
+| 29   |  7 Feb | Mobile-first, responsive web design.                  |
+| 20   | 14 Feb | Getting user input. Accessible information.           |
+| 21   | 21 Feb | Manipulating the DOM. JSON data and storage APIs.     |
+| 22   |  BREAK | Time to practice/catch up?                            |
+| 23   |  7 Mar | Getting remote JSON data from APIs.                   |
+| 24   | 14 Mar | CSS animation and transition.                         |
+| 25   | 21 Mar | Assignment workshops.                                 |
+| 26   | 28 Mar | Final assignment workshops.                           |
+| 27   |  4 Apr | **ASSIGNMENT DUE 8th April @ 12:00**                  |
+
+There are two timetabled sessions every week.
+We have an online session booked for 2 hours on Tuesday afternoons for the whole module and a one-hour lab session, broken into groups (see your personal timetable).
 
 ### Online materials
 
-Each week, online resources and video demonstrations will introduce the learning materials in preparation for a related lab session the following week (see timetable).
-Asynchronous content will be released on the Thursday prior to lab sessions the following week.
-
-These resources provide essential technical information as well as wider perspectives on front-end web technologies.
+Each week, the online session will be used to introduce the asynchronous materials for the week.
+The asynchronous resources provide essential technical information as well as wider perspectives on front-end web technologies.
 They also contain carefully-selected links for further information.
 
-It is essential that the main material is completed before the following lab session.
-You must view/read the provided content **before** your first lab each week.
+Online resources and video demonstrations will introduce the learning materials in preparation for a related lab session.
+It is essential that the main material is completed before the lab session.
+
+Repeat: You must view/read the provided content **before** your first lab each week.
+
+>To maximise the time with your tutor it is also recommended that you attempt the lab material **before** the timetabled session.
+
+We will also use the online session to answer any general questions you have about the module and to take a first look at the lab exercise for the week.
+If you have a query then please email the module leader in advance of the online session and also ask the question in the session so everyone can benefit from the answer.
+This avoids wasting precious time in the lab sessions.
 
 ### Labs
 
-There are a total of ten two-hour online labs and four one-hour face-to-face labs.
+There are a total of ten one-hour face-to-face labs.
+The lab sessions are crucial opportunities for working through practical exercises with a tutor at hand to help and expand on the materials.
 
 Labs involve guided exercises and hands-on coding.
 They are a focussed place to work on your final assignment and develop your skills.
-This is a very concentrated module, covering the three languages HTML5, CSS3 and JavaScript ES6.
+This is a very concentrated module, covering the three languages HTML5, CSS3 and JavaScript.
 Completing all the lab exercises will ensure that your knowledge keeps pace with the module calendar.
-The last few labs (after Easter in particular) will focus on practical advice and questions supporting your individual assignment work.
+The last few labs will be dedicated to providing practical advice and answering your questions to support your individual assignment work.
 
-Each week there will be a 2-hour timetabled lab session held online in blackboard collaborate in groups of 60.
-Face-to-face lab sessions will be spread over the 10-week period and will be in small groups of 11.
-If necessary, face-to-face labs will be moved online.
-Depending on which group you are in, these will be in weeks 17, 21, 25 and 29 or weeks 18, 21, 24 and 30.
 For specific class times and locations, check your personal timetable.
-
-### Additional online workshops
-
-This year we will also have three online workshops (weeks 18, 21 and 24) with guest lecturer (and CTEC3905 module co-founder) Dave Everitt from the media school.
-
-### Calendar
-
-| Week | Content available | Indicative content |
-| :--: | :---------------: | ------------------ |
-| 17 | 21 Jan | Module introduction. Introduction to HTML. Workflow. |
-| 18 | 28 Jan | Introduction to CSS. Creating and styling a page. Design principles. |
-| 19 | 04 Feb | Introduction to JavaScript. Using GIT and github. |
-| 20 | 11 Feb | Mobile-first, responsive web design. |
-| 21 | 18 Feb | Getting user input. Accessible information. |
-| 22 | BREAK | content for week 23 released in advance |
-| 23 | 25 Feb | Manipulating the DOM. JSON data and storage APIs. |
-| 24 | 11 Mar | Getting remote JSON data from APIs. Design trends. |
-| 25 | 18 Mar | CSS animation and transition. |
-| 26 | EASTER | content for week 29 released in advance |
-| 27 | EASTER | work on assignment |
-| 28 | EASTER | develop your questions for the final few lab sessions |
-| 29 | 25 Mar | Assignment workshops. Final project development, how to hand in, final look at marking criteria (released before Easter) |
-| 30 | 22 Apr | Assignment workshops. ASSIGNMENT DUE 30th April @ 12:00 |
 
 ## The assignment
 
 You will create a website of no more than 4 separate pages (4 distinct screen sections for Single-Page Apps) on a topic of your choice (e.g. portfolio, business, interests, game reviews…). This can be useful for your future and should demonstrate your knowledge of all three front-end languages.
 
 - **Weighting:** 100% of module mark
-- **Deadline:** midday Friday 30th April 2021 (week 30)
-- **Feedback:** by midday Wednesday 2nd June 2021 (week 35)
+- **Deadline:** Friday 8th April 2022 (week 27) @ 12:00 (midday)
+- **Feedback:** by 12:00 (midday) on Thursday 12th May 2022 (week 32)
 - **Submission:** URL for your GitHub classroom repository to the *Assignment submission link* on Blackboard
 
 ### Deliverable
 
-A private github classroom repository will be created for you within the [CTEC3905 github organisation](https://github.com/ctec3905-2020-21).
-This repository will be visible to you and the module tutors.
+A private github classroom repository will be created for you within the [CTEC3905 github organisation](https://github.com/ctec3905-2022).
+This repository will be private, only being visible to you and the module tutors.
 It is the only way we can see your code and will ultimately be used for the submission so take good care of it.
 Instructions for cloning the repository will be provided, this will give you a basic template for your assignment.
 
-Over the course of the module, you are encouraged to gradually replace the template with your own evolving code.
+Over the course of the module, you are encouraged to replace the template with your own evolving code.
 You will be expected to update your code regularly and also to keep the submission repository up-to-date with regular pushes.
 A good guide would be to make a minimum of two or three commits per week, starting as early as possible and running through to the submission date.
-This allows the project team to inspect your code and offer advice but also ensures you generate a commit history commensurate with the marking criteria.
+This allows the project team to inspect your code and offer advice.
+Your tutor will be monitoring your repository and will expect to see regular commits.
+This helps to ensure you generate a commit history commensurate with the marking criteria.
 
 Note that the deliverable is not simply your final code but the entire history of your development process captured in the git repository.
 It is important that we see your code evolve from a basic first draft through to the final submission.
 Redesigning and refactoring is part of the process, we expect to see changes in markup and redesigns of styles as we introduce new concepts.
-So don't be afraid to commit early and commit often.
+So please commit early and commit often, the code quality may be low initially but it will improve over time as your skills develop.
 
 ### Submission
 
-The submission repository URL should be entered via the *Assignment submission link* on Blackboard before the assignment deadline (30th April, midday).
+The submission repository URL should be entered via the *Assignment submission link* on Blackboard before the assignment deadline.
 
 Please make sure you **double-check your code repository URL before submitting**.
 
@@ -153,7 +151,7 @@ These come under four headings:
 3. Responsiveness, Accessibility and Interaction
 4. GIT Version Control
 
-Please ensure you understand all the requirements under each heading - see the full marking criteria under [Assignment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_557840_1&content_id=_4941849_1&mode=reset).
+Please ensure you understand all the requirements under each heading - see the full marking criteria under [Assignment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_592039_1&content_id=_5653055_1&mode=reset).
 
 ### Anonymous marking
 
@@ -161,14 +159,16 @@ Because of the practical nature of this module, there will be no anonymous marki
 
 ### Further general advice on your project
 
+Ask these questions regularly as you develop your code.
+
 - is all code indented consistently?
 - is all HTML and CSS code validated?
-- is there a good page structure with HTML5 semantic tags?
+- is there a clear page structure with HTML5 semantic tags?
 - is the navigation effective or is some content hard to find?
 - is the site fully responsive at all sizes?
 - is all JavaScript (.js) and CSS (.css) in separate files?
 - are all file names lower-case?
-- are images in a separate folder?
+- are images and other resources in a separate folder?
 - are there any Javascript errors in the console?
 
 ## Key resources
@@ -192,33 +192,41 @@ Because of the practical nature of this module, there will be no anonymous marki
 
 ### Github
 
-We have created a [CTEC3905 github organisation](https://github.com/ctec3905-2020-21) for the code examples and slides.
+We have created a [CTEC3905 github organisation](https://github.com/ctec3905-2022) for the code examples and slides.
 Please become familiar with this as it is also used for assignment submission (see below).
 
 ### Software
 
+For your own laptop or personal computer you will need to install some software.
+
 #### Desktop web browsers
 
-- [Chrome](https://www.google.com/chrome/) (recommended for module learning material)
-- [Firefox](https://www.mozilla.org/en-US/firefox/)
+[Worldwide browser statistics](https://gs.statcounter.com/browser-market-share) still show [Google Chrome](https://www.google.com/chrome/) is the most common browser in use in the last 12 months.
+
+We recommend using [Chrome](https://www.google.com/chrome/) for the module learning materials.
+[Firefox](https://www.mozilla.org/en-US/firefox/) or [Brave](https://brave.com/) are also acceptable.
 
 The following are also usable, but not advised for the module:
 
-- [Edge](https://www.microsoft.com/en-gb/windows/microsoft-edge)
+- [Edge](https://www.microsoft.com/en-gb/windows/microsoft-edge), which may be the default on lab machines. If it opens, just close it down and use Chrome to view your HTML files.
 - [Safari](https://www.apple.com/safari/)
 
-**Do not use Internet Explorer**, which may be the default on lab machines. If it opens, just close it down and use Chrome to view your HTML files.
+**Do not use Internet Explorer**.
 
-The [main default mobile browsers](http://gs.statcounter.com/browser-market-share/mobile/worldwide) are fine for previewing work, too.
+The [main mobile browsers](http://gs.statcounter.com/browser-market-share/mobile/worldwide) are fine for previewing work on mobile devices.
 
 #### Programmers text editor
 
-For your own laptop or personal computer, you will need a good programming text editor.
-These are free, and good:
+You will need a good programming text editor.
+We recommended [Atom](https://atom.io/) and will be using it throughout the module learning material.
 
-- [Atom](https://atom.io/) (recommended for module learning material)
+These are also free, and good:
+
 - [VSCode](https://code.visualstudio.com/)
 - [Brackets](http://brackets.io/)
+
+If you have a preference, use it.
+However, try to use a modern editor with some auto-completion as it will help a lot with e.g. HTML tags.
 
 #### Version control
 
@@ -244,12 +252,12 @@ Two further HTML5 and CSS3 books are also useful:
 - Dan Cederholm, [**CSS3 for Web Designers**](https://abookapart.com/products/css3-for-web-designers) (2nd Ed, 2015)
 - Jeremy Keith & Rachel Andrew, [**HTML5 for Web Designers**](https://abookapart.com/products/html5-for-web-designers) (2nd Ed, 2016)
 
-There's also a free Udacity course - [Responsive Web Design Basics](https://developers.google.com/web/fundamentals/design-and-ux/responsive/) - from Google developers.
-
 Two free online JavaScript books are useful references:
 
 - Marijn Haverbeke, [**Eloquent JavaScript**](https://eloquentjavascript.net)
 - Dr. Axel Rauschmayer, [**Exploring ES6**](http://exploringjs.com/es6/index.html)
+
+[Responsive Web Design Basics](https://web.dev/responsive-web-design-basics/) is a nice article if you have some experience of front-end web development already.
 
 You won’t need to read these in detail for the module, but if you want to dig deeper into JavaScript, they cover far more than the module learning materials can.
 
