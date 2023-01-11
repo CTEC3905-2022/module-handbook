@@ -47,51 +47,46 @@ In addition, best practice in general software development (e.g. regular version
 - **Graeme Stuart** (module leader): gstuart@dmu.ac.uk
 - **Martin Stacey**: mstacey@dmu.ac.uk
 
-**Please note:** teaching staff contact outside timetabled hours is strictly via email.
-Please contact module leader for module enquiries.
-
 ## Module structure
 
-This year, the module runs from week 16 (19th January) to week 26 (1st April). The final project hand-in date is: Midday on Friday 8th April 2021 (week 27, just before Easter).
+This year, the module runs from week 16 (18th January) to week 29 (23rd April). The final project hand-in date is: Midday on Friday 21st April 2023 (week 29, just after Easter).
 
 | Week | Date | Indicative content                                      |
 | :--: | :----: | :------------------                                   |
-| 16   | 17 Jan | Module introduction. Introduction to HTML. Workflow.  |
-| 17   | 24 Jan | Introduction to CSS. Creating and styling a page.     |
-| 18   | 31 Jan | Introduction to JavaScript. Using GIT and github.     |
-| 29   |  7 Feb | Mobile-first, responsive web design.                  |
-| 20   | 14 Feb | Getting user input. Accessible information.           |
-| 21   | 21 Feb | Manipulating the DOM. JSON data and storage APIs.     |
+| 16   | 16 Jan | Module introduction. Introduction to HTML. Workflow.  |
+| 17   | 23 Jan | Introduction to CSS. Creating and styling a page.     |
+| 18   | 30 Jan | Introduction to JavaScript. Using GIT and github.     |
+| 29   |  6 Feb | Mobile-first, responsive web design.                  |
+| 20   | 13 Feb | Getting user input. Accessible information.           |
+| 21   | 20 Feb | Manipulating the DOM. JSON data and storage APIs.     |
 | 22   |  BREAK | Time to practice/catch up?                            |
-| 23   |  7 Mar | Getting remote JSON data from APIs.                   |
-| 24   | 14 Mar | CSS animation and transition.                         |
-| 25   | 21 Mar | Assignment workshops.                                 |
-| 26   | 28 Mar | Final assignment workshops.                           |
-| 27   |  4 Apr | **ASSIGNMENT DUE 8th April @ 12:00**                  |
+| 23   |  6 Mar | Getting remote JSON data from APIs.                   |
+| 24   | 13 Mar | CSS animation and transition.                         |
+| 25   | 20 Mar | Assignment workshops.                                 |
+| 26-28|  BREAK | Work on assignment?                                   |
+| 29   | 17 Apr | **ASSIGNMENT DUE 21st April @ 12:00**                 |
 
-There are two timetabled sessions every week.
-We have an online session booked for 2 hours on Tuesday afternoons for the whole module and a one-hour lab session, broken into groups (see your personal timetable).
+There are three timetabled sessions every week.
+We have two lectures, Wednesday @ 10:00 and Thursday @ 11:00 plus a one-hour lab session each week, broken into groups (see your personal timetable).
 
 ### Online materials
 
-Each week, the online session will be used to introduce the asynchronous materials for the week.
-The asynchronous resources provide essential technical information as well as wider perspectives on front-end web technologies.
+Each week, the lectures will be used to introduce the concepts and technical details of web technologies.
+We will also use these sessions to answer any general questions you have about the module and to take a first look at the lab exercise for the week.
+Where possible, they will include live coding demonstrations as examples of good practice.
+
+> If you have a query then please email the module leader in advance of the online session and also ask the question in the session so everyone can benefit from the answer.
+This avoids wasting precious time in the lab sessions.
+
+The lectures are supplemented by video demonstrations which will also introduce the learning materials in preparation for a related lab session, these include essential technical information as well as wider perspectives on front-end web technologies.
 They also contain carefully-selected links for further information.
 
-Online resources and video demonstrations will introduce the learning materials in preparation for a related lab session.
-It is essential that the main material is completed before the lab session.
-
-Repeat: You must view/read the provided content **before** your first lab each week.
-
->To maximise the time with your tutor it is also recommended that you attempt the lab material **before** the timetabled session.
-
-We will also use the online session to answer any general questions you have about the module and to take a first look at the lab exercise for the week.
-If you have a query then please email the module leader in advance of the online session and also ask the question in the session so everyone can benefit from the answer.
-This avoids wasting precious time in the lab sessions.
+To maximise the time with your tutor it is recommended that you attempt the lab material **before** the timetabled session.
+Lab sessions should be used to reinforce the learning from the lab exercises and develop your own experiments. 
 
 ### Labs
 
-There are a total of ten one-hour face-to-face labs.
+There are a total of ten one-hour labs timetabled.
 The lab sessions are crucial opportunities for working through practical exercises with a tutor at hand to help and expand on the materials.
 
 Labs involve guided exercises and hands-on coding.
@@ -107,8 +102,8 @@ For specific class times and locations, check your personal timetable.
 You will create a website of no more than 4 separate pages (4 distinct screen sections for Single-Page Apps) on a topic of your choice (e.g. portfolio, business, interests, game reviews…). This can be useful for your future and should demonstrate your knowledge of all three front-end languages.
 
 - **Weighting:** 100% of module mark
-- **Deadline:** Friday 8th April 2022 (week 27) @ 12:00 (midday)
-- **Feedback:** by 12:00 (midday) on Thursday 12th May 2022 (week 32)
+- **Deadline:** Friday 21st April 2023 (week 29) @ 12:00 (midday)
+- **Feedback:** by 12:00 (midday) on Tuesday 23rd May 2023 (week 34)
 - **Submission:** URL for your GitHub classroom repository to the *Assignment submission link* on Blackboard
 
 ### Deliverable
@@ -121,9 +116,12 @@ Instructions for cloning the repository will be provided, this will give you a b
 Over the course of the module, you are encouraged to replace the template with your own evolving code.
 You will be expected to update your code regularly and also to keep the submission repository up-to-date with regular pushes.
 A good guide would be to make a minimum of two or three commits per week, starting as early as possible and running through to the submission date.
-This allows the project team to inspect your code and offer advice.
+This allows the module team to inspect your code and offer advice.
 Your tutor will be monitoring your repository and will expect to see regular commits.
 This helps to ensure you generate a commit history commensurate with the marking criteria.
+
+> We expect to see multiple commits each week from about the third week.
+You should aim to make at least three commits per coding session and work on your assignment at least four times per week.
 
 Note that the deliverable is not simply your final code but the entire history of your development process captured in the git repository.
 It is important that we see your code evolve from a basic first draft through to the final submission.
@@ -151,7 +149,7 @@ These come under four headings:
 3. Responsiveness, Accessibility and Interaction
 4. GIT Version Control
 
-Please ensure you understand all the requirements under each heading - see the full marking criteria under [Assignment on Blackboard](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_592039_1&content_id=_5653055_1&mode=reset).
+Please ensure you understand all the requirements under each heading - see the full marking criteria under **Assignment** on blackboard.
 
 ### Anonymous marking
 
@@ -187,7 +185,6 @@ Ask these questions regularly as you develop your code.
   - links to slides
   - recommended books, articles and tutorials
 - **Online lab material:** Lab exercises released each week, in advance
-- **Online classroom**: links for attending online sessions
 - **Assignment:** assignment brief, marking scheme and submission link
 
 ### Github
@@ -208,7 +205,7 @@ We recommend using [Chrome](https://www.google.com/chrome/) for the module learn
 
 The following are also usable, but not advised for the module:
 
-- [Edge](https://www.microsoft.com/en-gb/windows/microsoft-edge), which may be the default on lab machines. If it opens, just close it down and use Chrome to view your HTML files.
+- [Edge](https://www.microsoft.com/en-gb/windows/microsoft-edge), which may be the default on lab machines.
 - [Safari](https://www.apple.com/safari/)
 
 **Do not use Internet Explorer**.
@@ -218,15 +215,11 @@ The [main mobile browsers](http://gs.statcounter.com/browser-market-share/mobile
 #### Programmers text editor
 
 You will need a good programming text editor.
-We recommended [Atom](https://atom.io/) and will be using it throughout the module learning material.
+We used to recommended [Atom](https://atom.io/) and is still part of the module learning material.
+However **the atom editor has been ['sunsetted'](https://github.blog/2022-06-08-sunsetting-atom/) recently** so the new recommendation is to use [VSCode](https://code.visualstudio.com/).
 
-These are also free, and good:
-
-- [VSCode](https://code.visualstudio.com/)
-- [Brackets](http://brackets.io/)
-
-If you have a preference, use it.
-However, try to use a modern editor with some auto-completion as it will help a lot with e.g. HTML tags.
+If you have a preference for another editor, use it.
+However, try to use a modern editor with some auto-completion as it will help a lot with e.g. HTML tags and JavaScript.
 
 #### Version control
 
@@ -245,7 +238,7 @@ These two books have been core texts for web developers:
 - Ethan Marcotte, [**Responsive Web Design**](https://abookapart.com/products/responsive-web-design) (2014)
 - Luke Wroblewski, [**Mobile First**](https://abookapart.com/products/mobile-first) (2011)
 
-Although they were published a few years ago, they are regarded as game-changers and are still relevant in 2021.
+Although they were published a few years ago, they are regarded as game-changers and are still relevant today.
 
 Two further HTML5 and CSS3 books are also useful:
 
