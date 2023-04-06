@@ -49,7 +49,7 @@ In addition, best practice in general software development (e.g. regular version
 
 ## Module structure
 
-This year, the module runs from week 16 (18th January) to week 29 (23rd April). The final project hand-in date is: Midday on Friday 21st April 2023 (week 29, just after Easter).
+This year, the module runs from week 16 (18th January) to week 30 (28th April). The final project hand-in date is: Midday on Friday 28th April 2023 (week 30).
 
 | Week | Date | Indicative content                                      |
 | :--: | :----: | :------------------                                   |
@@ -64,7 +64,8 @@ This year, the module runs from week 16 (18th January) to week 29 (23rd April). 
 | 24   | 13 Mar | CSS animation and transition.                         |
 | 25   | 20 Mar | Assignment workshops.                                 |
 | 26-28|  BREAK | Work on assignment?                                   |
-| 29   | 17 Apr | **ASSIGNMENT DUE 21st April @ 12:00**                 |
+| 29   | 17 Apr | Assignment workshops.                                 |
+| 30   | 24 Apr | **ASSIGNMENT DUE 28th April @ 12:00**                 |
 
 There are three timetabled sessions every week.
 We have two lectures, Wednesday @ 10:00 and Thursday @ 11:00 plus a one-hour lab session each week, broken into groups (see your personal timetable).
@@ -102,8 +103,8 @@ For specific class times and locations, check your personal timetable.
 You will create a website of no more than 4 separate pages (4 distinct screen sections for Single-Page Apps) on a topic of your choice (e.g. portfolio, business, interests, game reviews…). This can be useful for your future and should demonstrate your knowledge of all three front-end languages.
 
 - **Weighting:** 100% of module mark
-- **Deadline:** Friday 21st April 2023 (week 29) @ 12:00 (midday)
-- **Feedback:** by 12:00 (midday) on Tuesday 23rd May 2023 (week 34)
+- **Deadline:** Friday 28th April 2023 (week 30) @ 12:00 (midday)
+- **Feedback:** by 12:00 (midday) on Tuesday 31st May 2023 (week 35)
 - **Submission:** URL for your GitHub classroom repository to the *Assignment submission link* on Blackboard
 
 ### Deliverable
