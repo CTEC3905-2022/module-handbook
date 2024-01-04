@@ -19,7 +19,6 @@
   - [Marking Criteria](#marking-criteria)
   - [Further general advice on your project](#further-general-advice-on-your-project)
 - [Key resources](#key-resources)
-  - [Blackboard](#blackboard)
   - [Github](#github)
   - [Software](#software)
    - [Desktop web browsers](#desktop-web-browsers)
@@ -45,30 +44,30 @@ In addition, best practice in general software development (e.g. regular version
 ## Staff
 
 - **Graeme Stuart** (module leader): gstuart@dmu.ac.uk
-- **Martin Stacey**: mstacey@dmu.ac.uk
+- **Taha Rassem**: taha.rassem@dmu.ac.uk
 
 ## Module structure
 
-This year, the module runs from week 16 (18th January) to week 30 (28th April). The final project hand-in date is: Midday on Friday 28th April 2023 (week 30).
+This year, the module runs from week 16 (15th January) to week 30 (26th April). The final project hand-in date is: Midday on Friday 26th April 2024 (week 30).
 
-| Week | Date | Indicative content                                      |
+| Week | Date   | Indicative content                                      |
 | :--: | :----: | :------------------                                   |
-| 16   | 16 Jan | Module introduction. Introduction to HTML. Workflow.  |
-| 17   | 23 Jan | Introduction to CSS. Creating and styling a page.     |
-| 18   | 30 Jan | Introduction to JavaScript. Using GIT and github.     |
-| 29   |  6 Feb | Mobile-first, responsive web design.                  |
-| 20   | 13 Feb | Getting user input. Accessible information.           |
-| 21   | 20 Feb | Manipulating the DOM. JSON data and storage APIs.     |
+| 16   | 15 Jan | Module introduction. Introduction to HTML. Workflow.  |
+| 17   | 22 Jan | Introduction to CSS. Creating and styling a page.     |
+| 18   | 29 Jan | Introduction to JavaScript. Using GIT and github.     |
+| 19   |  5 Feb | Mobile-first, responsive web design.                  |
+| 20   | 12 Feb | Getting user input. Accessible information.           |
+| 21   | 19 Feb | Manipulating the DOM. JSON data and storage APIs.     |
 | 22   |  BREAK | Time to practice/catch up?                            |
-| 23   |  6 Mar | Getting remote JSON data from APIs.                   |
-| 24   | 13 Mar | CSS animation and transition.                         |
-| 25   | 20 Mar | Assignment workshops.                                 |
+| 23   |  4 Mar | Getting remote JSON data from APIs.                   |
+| 24   | 11 Mar | CSS animation and transition.                         |
+| 25   | 18 Mar | Assignment workshops.                                 |
 | 26-28|  BREAK | Work on assignment?                                   |
-| 29   | 17 Apr | Assignment workshops.                                 |
-| 30   | 24 Apr | **ASSIGNMENT DUE 28th April @ 12:00**                 |
+| 29   | 15 Apr | Assignment workshops.                                 |
+| 30   | 22 Apr | **ASSIGNMENT DUE 26th April @ 12:00**                 |
 
 There are three timetabled sessions every week.
-We have two lectures, Wednesday @ 10:00 and Thursday @ 11:00 plus a one-hour lab session each week, broken into groups (see your personal timetable).
+We have two lectures, Tuesday @ 13:00 and Thursday @ 12:00 plus a two-hour lab session each week, broken into groups (see your personal timetable).
 
 ### Online materials
 
@@ -87,7 +86,7 @@ Lab sessions should be used to reinforce the learning from the lab exercises and
 
 ### Labs
 
-There are a total of ten one-hour labs timetabled.
+There are a total of ten two-hour labs timetabled.
 The lab sessions are crucial opportunities for working through practical exercises with a tutor at hand to help and expand on the materials.
 
 Labs involve guided exercises and hands-on coding.
@@ -103,9 +102,9 @@ For specific class times and locations, check your personal timetable.
 You will create a website of no more than 4 separate pages (4 distinct screen sections for Single-Page Apps) on a topic of your choice (e.g. portfolio, business, interests, game reviews…). This can be useful for your future and should demonstrate your knowledge of all three front-end languages.
 
 - **Weighting:** 100% of module mark
-- **Deadline:** Friday 28th April 2023 (week 30) @ 12:00 (midday)
-- **Feedback:** by 12:00 (midday) on Tuesday 31st May 2023 (week 35)
-- **Submission:** URL for your GitHub classroom repository to the *Assignment submission link* on Blackboard
+- **Deadline:** Friday 26th April 2024 (week 30) @ 12:00 (midday)
+- **Feedback:** by 12:00 (midday) on Tuesday 28th May 2024 (week 35)
+- **Submission:** URL for your GitHub classroom repository to the *Assignment submission link* on Learning zone
 
 ### Deliverable
 
@@ -131,7 +130,7 @@ So please commit early and commit often, the code quality may be low initially b
 
 ### Submission
 
-The submission repository URL should be entered via the *Assignment submission link* on Blackboard before the assignment deadline.
+The submission repository URL should be entered via the *Assignment submission link* on Learning zone before the assignment deadline.
 
 Please make sure you **double-check your code repository URL before submitting**.
 
@@ -139,7 +138,7 @@ Please make sure you **double-check your code repository URL before submitting**
 
 **Reminder**: all marks are provisional, subject to moderation, and will be ratified by the June Progress and Awards Board.
 
-If you need any support or advice on completing this coursework please visit the Student Matters tab on the Faculty of Technology Blackboard page.
+If you need any support or advice on completing this coursework please visit the Student Matters tab on the Faculty of Technology Learning zone page.
 
 ### Marking criteria
 
@@ -150,7 +149,7 @@ These come under four headings:
 3. Responsiveness, Accessibility and Interaction
 4. GIT Version Control
 
-Please ensure you understand all the requirements under each heading - see the full marking criteria under **Assignment** on blackboard.
+Please ensure you understand all the requirements under each heading - see the full marking criteria under **Assignment** on Learning zone.
 
 ### Anonymous marking
 
@@ -171,22 +170,6 @@ Ask these questions regularly as you develop your code.
 - are there any Javascript errors in the console?
 
 ## Key resources
-
-### Blackboard
-
-**Blackboard** is the central point of reference for this module, these are the main sections:
-
-- **Announcements:** Weekly communication and important additional reminders
-- **Staff contacts:** module leader and teaching staff
-- **Module handbook:** this document, including module calendar
-- **Resource list:** the official resource list for the module
-- **Software:** links to download and install Atom, Google Chrome and Git
-- **Learning materials:** primary learning resources, including:
-  - Pre-recorded videos released each week
-  - links to slides
-  - recommended books, articles and tutorials
-- **Online lab material:** Lab exercises released each week, in advance
-- **Assignment:** assignment brief, marking scheme and submission link
 
 ### Github
 
@@ -263,7 +246,7 @@ The module recommends only two online reference sites:
 - W3Schools references: [HTML](https://www.w3schools.com/tags/), [CSS](https://www.w3schools.com/cssref/), [JavaScript](https://www.w3schools.com/jsref/)
 
 MDN is more up-to-date, accurate and technical, though it does still include older syntax (such as use of `var`) in some examples.
-Curent best practice (as covered in the learning materials and reflected in the marking criteria) is to replace all uses of `var` with `let` or `const`.
+Current best practice (as covered in the learning materials and reflected in the marking criteria) is to replace all uses of `var` with `let` or `const`.
 
 W3Schools is good for quick reference although some examples use *inline* JavaScript (e.g. `onclick`).
 Current best practice (as covered in the learning materials and reflected in the marking criteria) is to use the [JavaScript eventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener).
